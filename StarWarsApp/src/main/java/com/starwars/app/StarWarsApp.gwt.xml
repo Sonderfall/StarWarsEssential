@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='StarWarsApp'>
+	<!-- Inherit the core Web Toolkit stuff. -->
+
+	<!-- Other module inherits -->
+	<inherits name='com.google.gwt.user.User' />
+	<inherits name='com.google.gwt.inject.Inject' />
+	<inherits name="com.google.gwt.resources.Resources" />
+	<inherits name="com.google.gwt.logging.Logging" />
+	<inherits name='org.helios.gwt.fonts.GwtWebFonts' />
+	<inherits name='elemental.Elemental' />
+
+	<set-property name="gwt.logging.firebugHandler" value="DISABLED" />
+	<set-property name="gwt.logging.simpleRemoteHandler" value="DISABLED" />
+	<set-property name="gwt.logging.enabled" value="TRUE" />
+	<set-property name="gwt.logging.logLevel" value="FINE" />
+	<set-property name="gwt.logging.consoleHandler" value="ENABLED" />
+	<set-property name="gwt.logging.developmentModeHandler" value="DISABLED" />
+	<set-property name="gwt.logging.popupHandler" value="DISABLED" />
+	<set-property name="gwt.logging.systemHandler" value="DISABLED" />
+
+	<!-- FRENCH LANGUAGE, INDEPENDENT OF COUNTRY -->
+	<!-- <EXTEND-PROPERTY NAME="LOCALE" VALUES="FR"/> -->
+	<!-- <EXTEND-PROPERTY NAME="LOCALE" VALUES="EN"/> -->
+	<add-linker name="xsiframe" />
+	<set-configuration-property name="devModeRedirectEnabled" value="true" />
+
+	<!-- Specify the app entry point class. -->
+	<entry-point class='com.starwars.app.client.StarWarsApp' />
+
+	<!-- Specify the paths for translatable code -->
+	<source path='client' />
+	<source path='shared' />
+	<source path='server' />
+</module>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER/GWT (1)"/>
+	<classpathentry exported="true" kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER/App Engine (1)"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="lib" path="target/war/WEB-INF/lib/gin-2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/gin-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/guice-3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="target/war/WEB-INF/lib/gwt-rtti-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="target/war/WEB-INF/lib/guice-assistedinject-3.0.jar"/>
+	<classpathentry kind="lib" path="target/war/WEB-INF/lib/guice-multibindings-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/guice-grapher-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/guice-jmx-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/guice-jndi-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/guice-multibindings-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/guice-persist-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/guice-servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/guice-spring-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/guice-struts2-plugin-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/guice-throwingproviders-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/javax.inject.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/aopalliance.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/guice-assistedinject-3.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/guava-15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/guava-gwt-15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/gwt-api-checker.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/gwt-benchmark-viewer.war"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/gwt-elemental.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/gwt-soyc-vis.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-api-services-tasks-v1-rev2-1.4.0-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-api-services-oauth2-v1-rev33-1.13.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/javax.persistence-2.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/gwt-oauth2-0.2-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/gwt-webfonts-0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/org.antlr.v4-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/requestfactory-apt-src.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/requestfactory-apt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/requestfactory-client-src.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/requestfactory-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/requestfactory-client+src.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/requestfactory-server-src.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/requestfactory-server.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/requestfactory-server+src.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/validation-api-1.0.0.GA-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-api-client-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-api-client-android-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-api-client-appengine-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-api-client-gson-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-api-client-jackson2-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-api-client-java6-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-api-client-protobuf-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-api-client-servlet-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-api-client-xml-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-http-client-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-http-client-android-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-http-client-appengine-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-http-client-gson-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-http-client-jackson-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-http-client-jackson2-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-http-client-jdo-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-http-client-protobuf-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-http-client-xml-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-oauth-client-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-oauth-client-appengine-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-oauth-client-java6-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-oauth-client-jetty-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/google-oauth-client-servlet-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/gwt-user.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Program%20Files/Java/eclipse/plugins/com.google.gwt.eclipse.sdkbundle_2.6.0/gwt-2.6.0/doc/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/gwt-codeserver.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Program%20Files/Java/eclipse/plugins/com.google.gwt.eclipse.sdkbundle_2.6.0/gwt-2.6.0/doc/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Desktop/Dev/Git/StarWarsApp/target/war/WEB-INF/lib/gwt-dev.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Program%20Files/Java/eclipse/plugins/com.google.gwt.eclipse.sdkbundle_2.6.0/gwt-2.6.0/doc/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="target/war/WEB-INF/lib/guice-2.0.jar"/>
+	<classpathentry kind="lib" path="target/war/WEB-INF/lib/guice-assistedinject-2.0.jar"/>
+	<classpathentry kind="lib" path="target/war/WEB-INF/lib/gin-2.0.0.jar"/>
+	<classpathentry kind="lib" path="target/war/WEB-INF/lib/guice-jmx-2.0.jar"/>
+	<classpathentry kind="lib" path="target/war/WEB-INF/lib/guice-jndi-2.0.jar"/>
+	<classpathentry kind="lib" path="target/war/WEB-INF/lib/guice-servlet-2.0.jar"/>
+	<classpathentry kind="lib" path="target/war/WEB-INF/lib/guice-spring-2.0.jar"/>
+	<classpathentry kind="lib" path="target/war/WEB-INF/lib/guice-struts2-plugin-2.0.jar"/>
+	<classpathentry kind="lib" path="target/war/WEB-INF/lib/guice-throwingproviders-2.0.jar"/>
+	<classpathentry kind="lib" path="target/war/WEB-INF/lib/geronimo-jta_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="target/war/WEB-INF/lib/gwt-elemental-2.5.1.jar"/>
+	<classpathentry kind="lib" path="target/war/WEB-INF/lib/gwt-servlet-2.5.1.jar"/>
+	<classpathentry kind="lib" path="target/war/WEB-INF/lib/gwt-servlet-deps.jar"/>
+	<classpathentry kind="lib" path="target/war/WEB-INF/lib/gwt-servlet.jar"/>
+	<classpathentry kind="lib" path="target/war/WEB-INF/lib/gwt-user-2.5.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="target/war/WEB-INF/lib/gwt-rtti-0.0.1-SNAPSHOT-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="target/war/WEB-INF/lib/gwt-rtti-0.0.1-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="output" path="target/war/WEB-INF/classes"/>
+</classpath>
